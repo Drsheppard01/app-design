@@ -2,3 +2,4 @@
 2. Compression: [ZStandard](https://github.com/facebook/zstd)
 3. Integrate on system. Default path for binary file /home/<$user>/.local/lib/, default path for .desktop files /home/<$user>/.local/share/applications
 4. Mandatory sandboxed
+5. glibc-free
