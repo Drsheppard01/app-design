@@ -9,7 +9,7 @@
 
 ![How it works:](https://github.com/zyedidia/blobs/blob/master/eget-demo.gif)
 
-3. [Zap](https://github.com/srevinsaju/zap) - batch manager for AppImage
+3. [Zap](https://github.com/srevinsaju/zap) - package manager for AppImage
 
 ![How it works:](https://github.com/srevinsaju/zap/blob/main/assets/zap-firefox-install.gif)
 
