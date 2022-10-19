@@ -1,0 +1,18 @@
+
+
+
+1. [binenv](https://github.com/devops-works/binenv) - for installing complete binaries
+
+How it works: https://asciinema.org/a/LmYClC9sVgNs24QZjKIFccFh4
+
+2. [eget](https://github.com/zyedidia/eget) similar to binenv for installing binaries
+
+How it works: https://github.com/zyedidia/blobs/blob/master/eget-demo.gif
+
+3. [Zap](https://github.com/srevinsaju/zap) - batch manager for AppImage
+
+How it works: https://github.com/srevinsaju/zap/blob/main/assets/zap-firefox-install.gif
+
+4. [makeself](https://github.com/megastep/makeself)
+5. [mojosetup](https://github.com/icculus/mojosetup)
+6. [rinstall](https://github.com/danyspin97/rinstall)
