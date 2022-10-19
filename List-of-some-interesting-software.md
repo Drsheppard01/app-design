@@ -3,7 +3,7 @@
 
 1. [binenv](https://github.com/devops-works/binenv) - for installing complete binaries
 
-![How it works:](https://asciinema.org/a/356591.svg)](https://asciinema.org/a/356591)
+[![How it works:](https://asciinema.org/a/356591.svg)](https://asciinema.org/a/356591)
 
 2. [eget](https://github.com/zyedidia/eget) - similar to binenv for installing binaries
 
