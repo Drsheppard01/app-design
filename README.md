@@ -12,6 +12,10 @@
 2. Host system libraries and container libraries are mixed
 3. No mandatory integration
 4. No mandatory isolation (this problem is partially solved by aisap, firejail)
+
+### Improvements for AppImage infrastructure
+1. Web catalogue
+2. Graphical utility for manage permissions (like Flatseal for FlatHub)
  
  ## Flatpak
  
